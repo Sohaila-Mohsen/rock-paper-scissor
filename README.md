@@ -1,4 +1,4 @@
-# stone_scissors_paper
+# rock_scissors_paper
 
 A new Flutter project.
 
